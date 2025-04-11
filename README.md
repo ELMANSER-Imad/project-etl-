@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 EcomData - Pipeline Big Data
 
 ## 📝 Contexte
@@ -58,3 +59,6 @@ EcomData est une plateforme e-commerce spécialisée dans la vente de produits �
 ## 👨‍💻 Auteur
 
 Projet réalisé par ALI & IMADE .
+=======
+# project-etl-
+>>>>>>> 3a9994eb93e9e354db09e53f150233b41ecd13ce
